@@ -144,6 +144,3 @@ It provides a **secure, user-friendly, and organized platform** for effective co
 * **Semester:** Summer 2025
 
 ---
-
-Would you like me to make it **slightly shorter and more formal (for printed report submission)** version too?
-That one would sound like an academic report abstract instead of a README.
