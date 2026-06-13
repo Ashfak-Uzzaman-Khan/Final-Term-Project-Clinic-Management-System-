@@ -2,7 +2,7 @@ Title:  Clinic Management System
 
 ## Project Description
 
-The **Clinic Management System** is a comprehensive **web-based application** developed using **PHP** and **MySQL**.
+The **Clinic Management System** is a comprehensive **web-based application** developed using **PHP** and **MySQL**. 
 It aims to simplify and automate the day-to-day operations of clinics by managing **patients, doctors, appointments, and medical services** efficiently.
 
 The system enables patients to book appointments, doctors to manage schedules and prescriptions, and administrators to oversee all clinical activities.
